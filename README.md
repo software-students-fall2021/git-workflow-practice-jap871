@@ -1,6 +1,6 @@
 ## Software Development in Music
 
-[! max for live editing](https://cdn.shopify.com/s/files/1/0009/4362/0155/files/screenshot-max-for-live-editing_jpg_large.png?v=1584918639)
+![max for live editing](https://cdn.shopify.com/s/files/1/0009/4362/0155/files/screenshot-max-for-live-editing_jpg_large.png?v=1584918639)
 
 I particularuly love the recent developments in making coding accessible to musicians. [This](https://riemannkollektion.com/blogs/techno-producer-knowledge-hub/max-for-live-the-techno-producers-guide) is an article that dives into one of the most popular coding environments for musicians, which is called Max for Live.
 
